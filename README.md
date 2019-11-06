@@ -1,0 +1,1 @@
+This is a Django shop Application developed in Python 3.8 and Django 2.2.7
